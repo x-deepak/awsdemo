@@ -2,7 +2,7 @@
 
 Single-page Spring Boot app demonstrating EC2, S3, RDS, and Lambda integration.
 
-![Dashboard](./screenshots/Screenshot2026-05-20 15-04-09.png)
+![Dashboard](./screenshots/Screenshot2026-05-20%2015-04-09.png)
 
 ## Stack
 
